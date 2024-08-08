@@ -23,16 +23,16 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Nutritional Analysis**
 
 - 🌱 I’m currently learning **React, DSA**
-
-- 👯 I’m looking to collaborate on **Car Rental System**
-
-- 🤝 I’m looking for help with **Search Engine**
+  
+- 👯My first project is **search Engine**
+  
+- 👯 My second project is  **Car Rental System**
 
 - 💬 Ask me about **Web development**
 
 - 📫 How to reach me **buntykumar@gmail.com**
 
-- ⚡ Fun fact **funny**
+- ⚡ Fun fact **my most prized collection is pokemon cards**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
